@@ -2,6 +2,8 @@
 
 A vanilla Rails app that already has Devise users in it so you don't have to go through the whole configuration every time.
 
-Bundle.
-Migrate.
-Profit.
+Also, configured and ready for Heroku. Good day!
+
+1. Bundle.
+2. Migrate.
+3. Profit.
